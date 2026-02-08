@@ -14,5 +14,5 @@ function validOtp(otp) {
     return true;
 }
 
-let output = validOtp(23456)
-console.log(output);
+// let output = validOtp(23456)
+// console.log(output);
