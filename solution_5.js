@@ -27,7 +27,7 @@ function  analyzeText(str) {
     };
 }
 
-let output = analyzeText(
-    "Keep coding keep shining"
-);
-console.log(output);
+// let output = analyzeText(
+//     "Keep coding keep shining"
+// );
+// console.log(output);
