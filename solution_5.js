@@ -22,7 +22,7 @@ function  analyzeText(str) {
     let tokenCount = textWithoutSpaces.length;
 
     return{
-        longestWord,
+        longwords:longestWord,
         token: tokenCount
     };
 }
@@ -31,3 +31,5 @@ function  analyzeText(str) {
 //     "Keep coding keep shining"
 // );
 // console.log(output);
+
+
